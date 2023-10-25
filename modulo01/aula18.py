@@ -5,7 +5,7 @@ n4 = input('digite o seu nome >>')
 n5 = input('digite o seu nome >>')
 n6 = input('digite o seu nome >>')
 
-lista = [n1, n2, n3, n4, n5, n5, n6]
+lista = [n1, n2, n3, n4, n5, n6]
 
 # Amarelo é uma função de condição
 
