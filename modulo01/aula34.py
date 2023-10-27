@@ -1,4 +1,4 @@
-var = 'sim'
+var = 'Sim'
 #lower( transforma a string em minuscula)
 # upper( transforma a string em maiusculo)
 
